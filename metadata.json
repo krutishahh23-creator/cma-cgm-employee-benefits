@@ -1,0 +1,6 @@
+{
+  "name": "CMA CGM GBS India Benefits Guide",
+  "description": "Internal digital employee benefits guide for CMA CGM GBS India covering daily allowances, insurance, wellbeing, recognition, and TPA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
